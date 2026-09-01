@@ -1,4 +1,4 @@
-# One Case
+# GetDandy
 
 A client-facing page for dental practices: see what remakes, chairside adjustments and long turnarounds cost in your own numbers, then try a single crown the Dandy way.
 
